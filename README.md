@@ -8,6 +8,18 @@
 
 
 
+
+# 2023年1月
+图片验证码kaptcha基本用法    [PDF](./2023-01/图片验证码kaptcha基本用法.pdf)    [在线文章](https://blog.hackyle.com/article/java-demo/kaptcha)
+顺序表的基本操作与重要思想    [PDF](./2023-01/顺序表的基本操作与重要思想.pdf)    [在线文章](https://blog.hackyle.com/article/datastructure/basic-operations-and-important-thought-of-list)
+对象存储服务MinIO的基本用法    [PDF](./2023-01/对象存储服务MinIO的基本用法.pdf)    [在线文章](https://blog.hackyle.com/article/java-demo/minio-demo)
+学习一款基于Vue2的极简后台管理系统模板：vue-admin-template    [PDF](./2023-01/学习一款基于Vue2的极简后台管理系统模板：vue-admin-template.pdf)    [在线文章](https://blog.hackyle.com/article/project/vue-admin-template-4-learn)
+Nginx基础01：安装和基本使用    [PDF](./2023-01/Nginx基础01：安装和基本使用.pdf)    [在线文章](https://blog.hackyle.com/article/server/hello-nginx)
+Nginx基础02：配置文件nginx.conf（Part1）    [PDF](./2023-01/Nginx基础02：配置文件nginx.conf（Part1）.pdf)    [在线文章](https://blog.hackyle.com/article/server/nginx-conf-part1)
+Nginx基础03：配置文件nginx.conf（Part2）    [PDF](./2023-01/Nginx基础03：配置文件nginx.conf（Part2）.pdf)    [在线文章](https://blog.hackyle.com/article/server/nginx-conf-part2)
+
+
+
 # 2022年12月
 一款简单易用的远程日志查看器，可实时查看云服务器上的日志数据 [PDF](./2022-12/一款简单易用的远程日志查看器，可实时查看云服务器上的日志数据.pdf)    [在线文章](https://blog.hackyle.com/article/project/remote-log-viewe)
 List-String-拼接为一个String的几种方法    [PDF](./2022-12/List-String-拼接为一个String的几种方法.pdf)    [在线文章](https://blog.hackyle.com/article/java/concate-list-to-string)
